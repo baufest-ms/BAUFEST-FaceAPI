@@ -1,6 +1,6 @@
-# Baufest | POC - Face API >> Cencosud
+# Baufest | POC - Face API >> Baufest
 
-:octocat: En este repositorio vas a poder encontrar la POC de implementación de Face API realizada para el Workshop de 2019 para Cencosud. El principal objetivo es experimentar con el reconocimiento de imágenes, en este caso en particular, de rostros de personas a través de [Face API](https://azure.microsoft.com/en-us/services/cognitive-services/face/).
+:octocat: En este repositorio vas a poder encontrar la POC de implementación de Face API realizada para el Workshop de 2019. El principal objetivo es experimentar con el reconocimiento de imágenes, en este caso en particular, de rostros de personas a través de [Face API](https://azure.microsoft.com/en-us/services/cognitive-services/face/).
 
 A continuación, se presentan los diferentes pasos que deberás realizar para poder finalizar la implementación parcial de la POC, mientras aprendés cómo trabajar con [Cognitive Services](https://azure.microsoft.com/en-us/try/cognitive-services/) de Microsoft Azure.
 
